@@ -5,3 +5,5 @@ Using the Nashville numbering system, we want to map it for the keys C, D, E, F,
 I also want to map other common chord progressions and songs and make it customizeable so other people can too.
 
 Right now I'm trying to create a midi guitar to figure out the logic and it might replace the motor project.
+
+In order to run the code, you need a virtual midi insturment (LoopBe1) and a Digital Audio Workspace or DAW (MuseScore)
